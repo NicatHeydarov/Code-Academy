@@ -1,0 +1,5 @@
+C:\Users\Nicat\OneDrive\Desktop\Code Academy\09.03.2023\09.03.2023\obj\Debug\net6.0\09.03.2023.csproj.AssemblyReference.cache
+C:\Users\Nicat\OneDrive\Desktop\Code Academy\09.03.2023\09.03.2023\obj\Debug\net6.0\09.03.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\OneDrive\Desktop\Code Academy\09.03.2023\09.03.2023\obj\Debug\net6.0\09.03.2023.AssemblyInfoInputs.cache
+C:\Users\Nicat\OneDrive\Desktop\Code Academy\09.03.2023\09.03.2023\obj\Debug\net6.0\09.03.2023.AssemblyInfo.cs
+C:\Users\Nicat\OneDrive\Desktop\Code Academy\09.03.2023\09.03.2023\obj\Debug\net6.0\09.03.2023.csproj.CoreCompileInputs.cache
